@@ -1,6 +1,6 @@
 # Python Range Drill
 #
-# Author: Nicholas Wood (nicholas.cameron.wood@gmail.com
+# Author: Nicholas Wood (nicholas.cameron.wood@gmail.com)
 #
 #--------------------------------------------------------
 
